@@ -1,0 +1,6 @@
+questions
+
+project name - text - default current folder name if package.json found
+update - boolean - if exisitng package.json and nfpw value in package.json
+integrate - boolean - if existing package.json but no nfpw in package.json
+
